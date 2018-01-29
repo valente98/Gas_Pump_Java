@@ -8,6 +8,8 @@ public class Main {
         Scanner input = new Scanner(System.in);
         Costumer_interaction costumer =  new Costumer_interaction();
         costumer.Welcome();
-        String payment_choice = input.nextLine();
+        String GasType = input.nextLine();
+        costumer.PrepayorPayafter();
+        String PrepayorAfter = input.nextLine();
     }
 }
