@@ -1,0 +1,5 @@
+Gas-Type | Payment | Gallons | Price |
+regular | Prepay| Gallons: 8.33 | Price: 20.0
+regular | Prepay| Gallons: 4.58 | Price: 11.0
+regular | Prepay| Gallons: 8.33 | Price: 20.0
+Mid-grade | Pay After| Gallons: 6.0 | Price: 18.0
